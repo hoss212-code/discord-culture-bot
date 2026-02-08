@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands, tasks
-from utils.questions import get_random_question
+from utils.questions imporget_unique_question
 from config import THEMES, COLOR_PRIMARY
 import asyncio
 
@@ -40,7 +40,7 @@ class DailyQuiz(commands.Cog):
                 if channel is None:
                     continue
                 
-                question = get_random_question()
+                questionget_unique_question(mode='daily', guild_id=channel.guild.id)
                 if question is None:
                     continue
                 
