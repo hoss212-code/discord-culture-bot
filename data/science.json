@@ -426,5 +426,221 @@
     "correct": 0,
     "theme": "science",
     "difficulty": "difficile"
+  },
+
+  {
+    "question": "Quelle planète est la plus chaude du système solaire ?",
+    "options": ["Mercure", "Vénus", "Mars", "Jupiter"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel organe humain détoxifie principalement le sang ?",
+    "options": ["Rein", "Foie", "Cœur", "Poumon"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le symbole chimique du calcium ?",
+    "options": ["Cl", "Ca", "C", "Cm"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est la distance moyenne Terre-Soleil appelée ?",
+    "options": ["Année-lumière", "Parsec", "Unité astronomique", "Kilomètre solaire"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel gaz les plantes absorbent-elles lors de la photosynthèse ?",
+    "options": ["O2", "CO2", "N2", "H2"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quelle partie du cerveau gère l'équilibre ?",
+    "options": ["Cervelet", "Hypothalamus", "Tronc cérébral", "Cortex"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'hydrogène ?",
+    "options": ["Hy", "H", "Hg", "Ho"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel phénomène transforme un liquide en gaz ?",
+    "options": ["Fusion", "Condensation", "Vaporisation", "Sublimation"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel organe produit la bile ?",
+    "options": ["Pancréas", "Foie", "Estomac", "Rate"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète est inclinée sur le côté ?",
+    "options": ["Saturne", "Uranus", "Mars", "Vénus"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+
+  {
+    "question": "Quel est le symbole chimique du chlore ?",
+    "options": ["Cl", "Ch", "Cr", "Co"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle énergie est produite par le Soleil ?",
+    "options": ["Nucléaire", "Fossile", "Hydraulique", "Géothermique"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est l'organe principal du système nerveux ?",
+    "options": ["Cerveau", "Cœur", "Moelle", "Poumon"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est l'unité SI de la température ?",
+    "options": ["Kelvin", "Celsius", "Fahrenheit", "Joule"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel métal conduit le mieux l'électricité ?",
+    "options": ["Cuivre", "Or", "Argent", "Aluminium"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+
+  {
+    "question": "Quel organe humain est responsable de la digestion principale ?",
+    "options": ["Estomac", "Intestin grêle", "Foie", "Pancréas"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète a le plus grand volcan connu ?",
+    "options": ["Mars", "Vénus", "Terre", "Mercure"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le symbole chimique du zinc ?",
+    "options": ["Zn", "Zi", "Z", "Zc"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type de roche est le granite ?",
+    "options": ["Sédimentaire", "Magmatique", "Métamorphique", "Calcaire"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est l'organe qui filtre l'air inspiré ?",
+    "options": ["Nez", "Poumon", "Bronche", "Trachée"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quel phénomène produit un arc-en-ciel ?",
+    "options": ["Réflexion", "Diffraction", "Réfraction", "Ionisation"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète a la journée la plus courte ?",
+    "options": ["Jupiter", "Saturne", "Mars", "Terre"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le symbole chimique du plomb ?",
+    "options": ["Pb", "Pl", "Pm", "Po"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le principal composant de l'air ?",
+    "options": ["Oxygène", "Azote", "CO2", "Argon"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle partie de la cellule contient l'ADN ?",
+    "options": ["Membrane", "Noyau", "Cytoplasme", "Ribosome"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+
+  {
+    "question": "Quelle planète possède la plus grande tempête connue (Grande Tache Rouge) ?",
+    "options": ["Saturne", "Jupiter", "Neptune", "Mars"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel organe humain produit l'urine ?",
+    "options": ["Foie", "Rein", "Vessie", "Pancréas"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est la plus grande planète rocheuse ?",
+    "options": ["Terre", "Mars", "Mercure", "Vénus"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le symbole chimique du magnésium ?",
+    "options": ["Mg", "Mn", "Ma", "Me"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est l'unité de fréquence ?",
+    "options": ["Hertz", "Newton", "Joule", "Watt"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
   }
 ]
