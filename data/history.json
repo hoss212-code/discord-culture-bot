@@ -1,1 +1,58 @@
-[]
+[
+    {
+        "question": "En quelle année a eu lieu la Révolution française ?",
+        "options": ["1789", "1799", "1804", "1815"],
+        "correct": 0,
+        "theme": "history",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui était le premier empereur romain ?",
+        "options": ["Jules César", "Auguste", "Néron", "Trajan"],
+        "correct": 1,
+        "theme": "history",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel événement a marqué le début de la Seconde Guerre mondiale ?",
+        "options": ["Invasion de la France", "Invasion de la Pologne", "Bombardement de Pearl Harbor", "Bataille de Stalingrad"],
+        "correct": 1,
+        "theme": "history",
+        "difficulty": "facile"
+    },
+    {
+        "question": "En quelle année le mur de Berlin est-il tombé ?",
+        "options": ["1987", "1988", "1989", "1990"],
+        "correct": 2,
+        "theme": "history",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a découvert l'Amérique en 1492 ?",
+        "options": ["Vasco de Gama", "Christophe Colomb", "Ferdinand Magellan", "Amerigo Vespucci"],
+        "correct": 1,
+        "theme": "history",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel traité a mis fin à la Première Guerre mondiale ?",
+        "options": ["Traité de Versailles", "Traité de Paris", "Traité de Rome", "Traité de Westphalie"],
+        "correct": 0,
+        "theme": "history",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle civilisation a construit le Machu Picchu ?",
+        "options": ["Aztèques", "Mayas", "Incas", "Olmèques"],
+        "correct": 2,
+        "theme": "history",
+        "difficulty": "medium"
+    },
+    {
+        "question": "En quelle année Napoléon Bonaparte est-il devenu empereur de France ?",
+        "options": ["1799", "1804", "1810", "1815"],
+        "correct": 1,
+        "theme": "history",
+        "difficulty": "medium"
+    }
+]
