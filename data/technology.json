@@ -1,1 +1,212 @@
-[{"question":"Qui a fondé Apple?","options":["Bill Gates","Steve Jobs","Mark Zuckerberg","Elon Musk"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Quel est le système d'exploitation open source le plus populaire?","options":["Windows","macOS","Linux","DOS"],"correct":2,"theme":"technologie","difficulty":"moyen"},{"question":"Que signifie l'acronyme 'URL'?","options":["Uniform Resource Locator","Universal Resource Link","Unified Resource Loader","User Resource Locator"],"correct":0,"theme":"technologie","difficulty":"moyen"},{"question":"Quelle entreprise a développé le langage de programmation Java?","options":["Microsoft","Sun Microsystems","Apple","Google"],"correct":1,"theme":"technologie","difficulty":"moyen"},{"question":"Qu'est-ce qu'un 'bug' en informatique?","options":["Un virus","Une erreur dans le code","Un type de logiciel","Un périphérique"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Quelle est la capacité de stockage d'un DVD standard?","options":["700 Mo","4.7 Go","8 Go","16 Go"],"correct":1,"theme":"technologie","difficulty":"moyen"},{"question":"Quel est le langage de programmation le plus utilisé pour le développement web?","options":["Python","JavaScript","C++","Ruby"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Que signifie 'RAM'?","options":["Random Access Memory","Read Access Memory","Rapid Access Memory","Remote Access Memory"],"correct":0,"theme":"technologie","difficulty":"facile"},{"question":"Quelle entreprise a créé le processeur M1?","options":["Intel","AMD","Apple","NVIDIA"],"correct":2,"theme":"technologie","difficulty":"moyen"},{"question":"Qu'est-ce que le 'cloud computing'?","options":["Stockage de données dans les nuages","Stockage et traitement de données via Internet","Un type de réseau local","Un logiciel de météo"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Quel est le nom du premier ordinateur électronique?","options":["ENIAC","UNIVAC","IBM 701","Apple I"],"correct":0,"theme":"technologie","difficulty":"difficile"},{"question":"Que signifie 'CPU'?","options":["Central Processing Unit","Computer Personal Unit","Central Program Utility","Computer Processing Utility"],"correct":0,"theme":"technologie","difficulty":"facile"},{"question":"Quelle entreprise a développé Windows?","options":["Apple","Microsoft","IBM","Google"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Qu'est-ce qu'un 'firewall'?","options":["Un antivirus","Un pare-feu","Un navigateur","Un système d'exploitation"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Quel est le protocole de communication utilisé pour naviguer sur le web?","options":["FTP","HTTP","SMTP","SSH"],"correct":1,"theme":"technologie","difficulty":"moyen"},{"question":"Quelle entreprise a créé le moteur de recherche Google?","options":["Larry Page et Sergey Brin","Bill Gates","Steve Jobs","Mark Zuckerberg"],"correct":0,"theme":"technologie","difficulty":"facile"},{"question":"Que signifie 'Wi-Fi'?","options":["Wireless Fidelity","Wide Fidelity","Wired Fidelity","World Fidelity"],"correct":0,"theme":"technologie","difficulty":"moyen"},{"question":"Quel est le langage de programmation créé par Guido van Rossum?","options":["Java","Python","Ruby","PHP"],"correct":1,"theme":"technologie","difficulty":"moyen"},{"question":"Qu'est-ce qu'un 'pixel'?","options":["Une unité de mesure","Le plus petit élément d'une image","Un type de fichier","Un logiciel"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Quelle entreprise a développé le réseau social Facebook?","options":["Mark Zuckerberg","Jack Dorsey","Evan Spiegel","Kevin Systrom"],"correct":0,"theme":"technologie","difficulty":"facile"},{"question":"Que signifie 'GPU'?","options":["Graphics Processing Unit","General Processing Unit","Global Processing Unit","Game Processing Unit"],"correct":0,"theme":"technologie","difficulty":"moyen"},{"question":"Quel est le système de gestion de versions le plus utilisé?","options":["SVN","Git","Mercurial","CVS"],"correct":1,"theme":"technologie","difficulty":"moyen"},{"question":"Qu'est-ce que l'intelligence artificielle?","options":["Un robot","La capacité d'une machine à imiter l'intelligence humaine","Un logiciel","Un jeu vidéo"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Quelle entreprise a créé l'iPhone?","options":["Samsung","Apple","Google","Microsoft"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Que signifie 'SSD'?","options":["Solid State Drive","Super Storage Device","System Storage Drive","Secure Storage Disk"],"correct":0,"theme":"technologie","difficulty":"moyen"},{"question":"Quel est le premier réseau social créé?","options":["Facebook","MySpace","Six Degrees","Friendster"],"correct":2,"theme":"technologie","difficulty":"difficile"},{"question":"Qu'est-ce qu'un 'algorithme'?","options":["Un langage de programmation","Une suite d'instructions","Un type de fichier","Un logiciel"],"correct":1,"theme":"technologie","difficulty":"facile"},{"question":"Quelle entreprise a créé le système d'exploitation Android?","options":["Apple","Microsoft","Google","Samsung"],"correct":2,"theme":"technologie","difficulty":"facile"},{"question":"Que signifie 'HTML'?","options":["HyperText Markup Language","HighText Machine Language","HyperText Machine Language","HighText Markup Language"],"correct":0,"theme":"technologie","difficulty":"moyen"},{"question":"Quel est le nombre de bits dans un octet?","options":["4","8","16","32"],"correct":1,"theme":"technologie","difficulty":"facile"}]
+[
+  {
+    "question": "Que signifie CPU ?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Control Program Unit", "Core Process Utility"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie RAM ?",
+    "options": ["Random Access Memory", "Rapid Access Module", "Read Active Memory", "Run Access Machine"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel périphérique permet de déplacer le curseur ?",
+    "options": ["Clavier", "Souris", "Scanner", "Écran"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel système d'exploitation est développé par Microsoft ?",
+    "options": ["Linux", "Windows", "macOS", "Ubuntu"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage structure une page web ?",
+    "options": ["Python", "HTML", "C", "Java"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole permet de naviguer sur le web ?",
+    "options": ["FTP", "HTTP", "SMTP", "SSH"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant stocke les données durablement ?",
+    "options": ["RAM", "SSD", "CPU", "Cache"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie GPU ?",
+    "options": ["General Processing Unit", "Graphics Processing Unit", "Graphical Power Unit", "Global Processor Unit"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage fonctionne dans le navigateur ?",
+    "options": ["C++", "JavaScript", "Python", "SQL"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel appareil imprime des documents ?",
+    "options": ["Routeur", "Scanner", "Imprimante", "Switch"],
+    "correct": 2,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie URL ?",
+    "options": ["Uniform Resource Locator", "Universal Reference Link", "User Resource Location", "Unified Routing Link"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel port utilise HTTP ?",
+    "options": ["21", "80", "25", "443"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel port utilise HTTPS ?",
+    "options": ["22", "443", "80", "110"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel appareil connecte plusieurs machines dans un réseau local ?",
+    "options": ["Routeur", "Switch", "NAS", "Firewall"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage interroge une base de données ?",
+    "options": ["SQL", "HTML", "CSS", "PHP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel système est open-source ?",
+    "options": ["Windows", "Linux", "iOS", "macOS"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie IP ?",
+    "options": ["Internet Protocol", "Internal Program", "Interface Port", "Internet Program"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole envoie les mails ?",
+    "options": ["SMTP", "HTTP", "FTP", "DNS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole traduit un nom de domaine en IP ?",
+    "options": ["DNS", "DHCP", "SSH", "FTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel périphérique numérise un document ?",
+    "options": ["Scanner", "GPU", "Switch", "NAS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie SSD ?",
+    "options": ["Solid State Drive", "Super Storage Disk", "System Storage Device", "Secure State Disk"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant exécute les instructions ?",
+    "options": ["CPU", "RAM", "SSD", "Carte réseau"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage stylise une page web ?",
+    "options": ["CSS", "HTML", "SQL", "Python"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole transfère des fichiers ?",
+    "options": ["FTP", "HTTP", "SMTP", "SNMP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel appareil protège un réseau ?",
+    "options": ["Firewall", "Switch", "Routeur", "NAS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie OS ?",
+    "options": ["Operating System", "Open Software", "Online System", "Optical Storage"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage est souvent utilisé en data science ?",
+    "options": ["Python", "HTML", "CSS", "C"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole permet une connexion distante sécurisée ?",
+    "options": ["SSH", "FTP", "HTTP", "SMTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel appareil attribue automatiquement des adresses IP ?",
+    "options": ["DHCP", "DNS", "FTP", "HTTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel stockage est le plus rapide ?",
+    "options": ["SSD", "HDD", "DVD", "USB 2.0"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  }
+]
