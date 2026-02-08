@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-from utils.questions import get_random_question
+from utils.questions imporget_unique_question
 from utils.database import add_points
 from config import COLOR_PRIMARY, COLOR_ERROR, COLOR_SUCCESS
 import asyncio
