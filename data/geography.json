@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Quelle est la capitale de la France?",
+        "options": ["Paris", "Lyon", "Marseille", "Toulouse"],
+        "correct": 0,
+        "theme": "geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Quel est le plus grand océan du monde?",
+        "options": ["Atlantique", "Indien", "Pacifique", "Arctique"],
+        "correct": 2,
+        "theme": "geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Combien de continents y a-t-il sur Terre?",
+        "options": ["5", "6", "7", "8"],
+        "correct": 2,
+        "theme": "geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Quelle est la capitale de l'Espagne?",
+        "options": ["Barcelone", "Madrid", "Séville", "Valence"],
+        "correct": 1,
+        "theme": "geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Dans quel pays se trouve la tour de Pise?",
+        "options": ["France", "Espagne", "Italie", "Grèce"],
+        "correct": 2,
+        "theme": "geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le plus long fleuve du monde?",
+        "options": ["Nil", "Amazone", "Yang Tsé", "Mississippi"],
+        "correct": 1,
+        "theme": "geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale du Japon?",
+        "options": ["Kyoto", "Osaka", "Tokyo", "Hiroshima"],
+        "correct": 2,
+        "theme": "geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Quel pays a la plus grande population au monde?",
+        "options": ["Inde", "Chine", "États-Unis", "Indonésie"],
+        "correct": 0,
+        "theme": "geography",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la plus haute montagne du monde?",
+        "options": ["K2", "Kilimandjaro", "Mont Everest", "Mont Blanc"],
+        "correct": 2,
+        "theme": "geography",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Dans quel pays se trouve le Machu Picchu?",
+        "options": ["Mexique", "Pérou", "Brésil", "Colombie"],
+        "correct": 1,
+        "theme": "geography",
+        "difficulty": "medium"
+    }
+]
