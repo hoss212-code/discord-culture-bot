@@ -208,5 +208,216 @@
     "correct": 0,
     "theme": "technology",
     "difficulty": "facile"
+,
+  {
+    "question": "Quel composant affiche les images à l'écran ?",
+    "options": ["CPU", "GPU", "RAM", "SSD"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie USB ?",
+    "options": ["Universal Serial Bus", "United System Board", "Universal System Bridge", "Unified Storage Bus"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel système d'exploitation est utilisé sur les iPhone ?",
+    "options": ["Android", "iOS", "Linux", "Windows"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel appareil permet de se connecter au Wi-Fi ?",
+    "options": ["Carte réseau", "SSD", "CPU", "RAM"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole attribue automatiquement une adresse IP ?",
+    "options": ["DNS", "DHCP", "HTTP", "FTP"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le langage principal d'Android ?",
+    "options": ["Swift", "Kotlin", "C#", "Ruby"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel appareil convertit le signal numérique en signal analogique pour Internet ?",
+    "options": ["Switch", "Modem", "NAS", "Firewall"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle mémoire est volatile ?",
+    "options": ["SSD", "RAM", "HDD", "ROM"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage est utilisé pour développer iOS ?",
+    "options": ["Swift", "Python", "Java", "PHP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole est utilisé pour recevoir des mails ?",
+    "options": ["POP3", "HTTP", "SSH", "SNMP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le cœur d'un ordinateur ?",
+    "options": ["RAM", "CPU", "SSD", "Carte graphique"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel logiciel permet de naviguer sur Internet ?",
+    "options": ["Navigateur", "IDE", "Compilateur", "Driver"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant relie tous les éléments d'un PC ?",
+    "options": ["Carte mère", "SSD", "GPU", "Ventilateur"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type de câble est utilisé pour un réseau Ethernet ?",
+    "options": ["RJ45", "HDMI", "USB", "VGA"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel appareil stocke des fichiers sur le réseau ?",
+    "options": ["NAS", "Switch", "Routeur", "Firewall"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Que signifie BIOS ?",
+    "options": ["Basic Input Output System", "Binary Input Operating System", "Base Integrated OS", "Basic Internal OS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel port utilise SSH ?",
+    "options": ["21", "22", "80", "443"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole sert à transférer des pages web sécurisées ?",
+    "options": ["HTTPS", "FTP", "SMTP", "DNS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant refroidit le CPU ?",
+    "options": ["Ventirad", "SSD", "RAM", "Carte réseau"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage est compilé ?",
+    "options": ["C", "HTML", "CSS", "SQL"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole permet le partage de fichiers Windows ?",
+    "options": ["SMB", "SSH", "FTP", "HTTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel logiciel permet la virtualisation ?",
+    "options": ["VirtualBox", "Excel", "Chrome", "Notepad"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type de stockage utilise des plateaux magnétiques ?",
+    "options": ["HDD", "SSD", "RAM", "NVMe"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel port utilise FTP ?",
+    "options": ["21", "22", "80", "443"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel composant permet la connexion Bluetooth ?",
+    "options": ["Carte réseau", "Module Bluetooth", "CPU", "RAM"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole sert à synchroniser l'heure sur un réseau ?",
+    "options": ["NTP", "FTP", "SMTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel type de mémoire est non volatile ?",
+    "options": ["ROM", "RAM", "Cache", "Registre"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le rôle d'un switch réseau ?",
+    "options": ["Relier des appareils", "Stocker des données", "Compiler du code", "Afficher une image"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant fournit l'énergie au PC ?",
+    "options": ["Alimentation", "CPU", "RAM", "SSD"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage est utilisé pour les scripts système sous Linux ?",
+    "options": ["Bash", "HTML", "CSS", "SQL"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
   }
+]}
 ]
