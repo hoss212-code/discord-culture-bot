@@ -1,1 +1,58 @@
-[{"question":"Qui a peint la Joconde?","options":["Michel-Ange","Léonard de Vinci","Picasso","Van Gogh"],"correct":1,"theme":"culture_generale","difficulty":"easy"},{"question":"Quel est le plus grand océan?","options":["Atlantique","Indien","Pacifique","Arctique"],"correct":2,"theme":"culture_generale","difficulty":"easy"},{"question":"Combien de côtés a un hexagone?","options":["5","6","7","8"],"correct":1,"theme":"culture_generale","difficulty":"easy"},{"question":"Quelle est la capitale de l'Italie?","options":["Milan","Rome","Naples","Florence"],"correct":1,"theme":"culture_generale","difficulty":"easy"},{"question":"Quel est l'auteur de Notre-Dame de Paris?","options":["Balzac","Zola","Victor Hugo","Flaubert"],"correct":2,"theme":"culture_generale","difficulty":"medium"},{"question":"Quelle est la langue officielle du Brésil?","options":["Espagnol","Portugais","Français","Anglais"],"correct":1,"theme":"culture_generale","difficulty":"medium"},{"question":"En quelle année a été créé Internet?","options":["1969","1979","1989","1999"],"correct":0,"theme":"culture_generale","difficulty":"hard"},{"question":"Qui a écrit Les Misérables?","options":["Dumas","Victor Hugo","Molière","Voltaire"],"correct":1,"theme":"culture_generale","difficulty":"easy"},{"question":"Quel est le symbole chimique de l'or?","options":["Au","Ag","Fe","Or"],"correct":0,"theme":"culture_generale","difficulty":"medium"},{"question":"Combien de joueurs dans une équipe de football?","options":["9","10","11","12"],"correct":2,"theme":"culture_generale","difficulty":"easy"}]
+[
+    {
+        "question": "Qui a peint la Joconde?",
+        "options": ["Michel-Ange", "Léonard de Vinci", "Picasso", "Van Gogh"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de l'Australie?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Combien de continents y a-t-il sur Terre?",
+        "options": ["5", "6", "7", "8"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus grand océan du monde?",
+        "options": ["Océan Atlantique", "Océan Pacifique", "Océan Indien", "Océan Arctique"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la langue la plus parlée au monde?",
+        "options": ["Anglais", "Espagnol", "Mandarin", "Hindi"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a écrit 'Les Misérables'?",
+        "options": ["Emile Zola", "Victor Hugo", "Gustave Flaubert", "Honoré de Balzac"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'or?",
+        "options": ["Or", "Au", "Ag", "Go"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Combien de touches a un piano standard?",
+        "options": ["76", "82", "88", "92"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    }
+]
