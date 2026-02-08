@@ -1,0 +1,9 @@
+[
+  {"question":"Quel joueur a gagné le plus de Ballons d'Or?","options":["Cristiano Ronaldo","Lionel Messi","Pelé","Maradona"],"correct":1,"theme":"football","difficulty":"facile"},
+  {"question":"Quel club a gagné le plus de Ligues des Champions?","options":["Real Madrid","Barcelona","Bayern Munich","Milan AC"],"correct":0,"theme":"football","difficulty":"moyen"},
+  {"question":"Qui a gagné la Coupe du Monde 2022?","options":["France","Brésil","Argentine","Allemagne"],"correct":2,"theme":"football","difficulty":"facile"},
+  {"question":"Combien de joueurs composent une équipe de football?","options":["9","10","11","12"],"correct":2,"theme":"football","difficulty":"facile"},
+  {"question":"Quel pays a remporté le plus de Coupes du Monde?","options":["Brésil","Allemagne","Argentine","Italie"],"correct":0,"theme":"football","difficulty":"moyen"},
+  {"question":"En quelle année la France a-t-elle gagné sa première Coupe du Monde?","options":["1998","2000","1996","2002"],"correct":0,"theme":"football","difficulty":"moyen"},
+  {"question":"Quel gardien français a remporté le Ballon d'Or en 1963?","options":["Fabien Barthez","Lev Yachine","Dino Zoff","Lev Yashin"],"correct":3,"theme":"football","difficulty":"difficile"}
+]
