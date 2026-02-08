@@ -31,7 +31,7 @@ THEMES = {
     'culture_generale': '🎨 Culture Générale',
     'technologie': '💻 Technologie',
     'science': '🔬 Science',
-    'sports': '🏀 Sports',
+    'sports: '🏀 Sports',
     'football': '⚽ Football',
 }
 
