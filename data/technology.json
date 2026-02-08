@@ -628,7 +628,218 @@
     "correct": 0,
     "theme": "technology",
     "difficulty": "facile"
+,
+  {
+    "question": "Quel protocole permet de télécharger des fichiers depuis un serveur web ?",
+    "options": ["HTTP", "SMTP", "SNMP", "NTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant d'un PC contient les ports USB et réseau ?",
+    "options": ["Carte mère", "GPU", "SSD", "RAM"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole sert à envoyer du courrier électronique ?",
+    "options": ["SMTP", "HTTP", "FTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel système de fichiers est courant sous Linux ?",
+    "options": ["EXT4", "NTFS", "FAT32", "HFS+"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel composant stocke le système d'exploitation ?",
+    "options": ["SSD", "RAM", "CPU", "GPU"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel outil sert à surveiller le trafic réseau ?",
+    "options": ["Wireshark", "Photoshop", "Excel", "VLC"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel type de câble transporte la vidéo numérique ?",
+    "options": ["HDMI", "RJ45", "USB", "Jack"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole permet la synchronisation de l'heure ?",
+    "options": ["NTP", "FTP", "SMTP", "DNS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel composant contient les cœurs de calcul ?",
+    "options": ["CPU", "SSD", "RAM", "Carte réseau"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole utilise le port 25 ?",
+    "options": ["SMTP", "HTTP", "SSH", "DNS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel logiciel sert à versionner du code ?",
+    "options": ["Git", "Chrome", "Excel", "Docker"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole sert au partage de fichiers Linux/Unix ?",
+    "options": ["NFS", "SMTP", "HTTP", "SNMP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel composant stocke temporairement les données en cours d'utilisation ?",
+    "options": ["RAM", "SSD", "HDD", "ROM"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel outil permet de créer des conteneurs applicatifs ?",
+    "options": ["Docker", "VirtualBox", "Git", "Apache"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole permet la résolution de noms sur Internet ?",
+    "options": ["DNS", "DHCP", "FTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel logiciel sert à virtualiser un système d'exploitation ?",
+    "options": ["VirtualBox", "Firefox", "Outlook", "Teams"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole est utilisé pour transférer des fichiers sécurisés ?",
+    "options": ["SFTP", "HTTP", "DNS", "SNMP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel composant transforme l'énergie électrique pour le PC ?",
+    "options": ["Alimentation", "Carte mère", "CPU", "GPU"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel outil affiche les processus en cours sous Linux ?",
+    "options": ["top", "nano", "grep", "mkdir"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole permet la supervision réseau ?",
+    "options": ["SNMP", "HTTP", "FTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel type de mémoire est utilisé par la carte graphique ?",
+    "options": ["VRAM", "RAM", "ROM", "Cache"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel outil sert à éditer du texte sous Linux ?",
+    "options": ["nano", "ping", "scp", "chmod"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole utilise le port 22 ?",
+    "options": ["SSH", "HTTP", "SMTP", "DNS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type de logiciel est Apache ?",
+    "options": ["Serveur web", "Navigateur", "IDE", "OS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole utilise le port 53 ?",
+    "options": ["DNS", "HTTP", "FTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel outil permet de copier des fichiers via SSH ?",
+    "options": ["scp", "ping", "top", "ps"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel type d'appareil est un Raspberry Pi ?",
+    "options": ["Micro-ordinateur", "Routeur", "Serveur rack", "Switch"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole permet de tester la connectivité réseau ?",
+    "options": ["ICMP", "SMTP", "FTP", "SNMP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel système permet de gérer des conteneurs à grande échelle ?",
+    "options": ["Kubernetes", "Docker", "Git", "Bash"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel outil permet de vérifier la configuration réseau sous Linux ?",
+    "options": ["ifconfig", "ls", "pwd", "cd"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
   }
+]}
 ]}
 ]}
 ]
