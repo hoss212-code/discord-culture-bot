@@ -418,6 +418,217 @@
     "correct": 0,
     "theme": "technology",
     "difficulty": "moyen"
+,
+  {
+    "question": "Quel langage est principalement utilisé pour développer des applications Android natives ?",
+    "options": ["Swift", "Kotlin", "PHP", "Rust"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole sécurise la navigation web grâce au chiffrement ?",
+    "options": ["FTP", "HTTPS", "SMTP", "Telnet"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant transforme le courant alternatif en courant continu dans un PC ?",
+    "options": ["Carte mère", "Alimentation", "GPU", "SSD"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel type de stockage utilise l'interface NVMe ?",
+    "options": ["SSD", "HDD", "RAM", "DVD"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole permet d'accéder à un serveur distant en ligne de commande ?",
+    "options": ["SSH", "HTTP", "DNS", "FTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant contient le firmware de démarrage ?",
+    "options": ["BIOS/UEFI", "RAM", "SSD", "GPU"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel langage est utilisé pour styliser les pages web ?",
+    "options": ["CSS", "HTML", "SQL", "Python"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole attribue automatiquement une configuration réseau complète ?",
+    "options": ["DHCP", "DNS", "SSH", "HTTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel appareil dirige le trafic entre différents réseaux ?",
+    "options": ["Switch", "Routeur", "NAS", "Modem"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type de mémoire est intégré directement dans le CPU pour accélérer les calculs ?",
+    "options": ["Cache", "ROM", "SSD", "VRAM"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel port utilise DNS par défaut ?",
+    "options": ["25", "53", "80", "443"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel logiciel permet de gérer des conteneurs ?",
+    "options": ["Docker", "Excel", "Photoshop", "Outlook"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel type d'attaque bloque un service en saturant le réseau ?",
+    "options": ["Phishing", "DDoS", "SQL Injection", "Spoofing"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel composant gère les calculs graphiques ?",
+    "options": ["GPU", "CPU", "RAM", "SSD"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole est utilisé pour récupérer les emails depuis un serveur ?",
+    "options": ["IMAP", "HTTP", "FTP", "DNS"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel langage est utilisé pour les requêtes dans une base de données relationnelle ?",
+    "options": ["SQL", "HTML", "CSS", "C"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel système permet d'exécuter plusieurs machines virtuelles ?",
+    "options": ["Hyperviseur", "Firewall", "Routeur", "Proxy"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel composant affiche le BIOS au démarrage ?",
+    "options": ["Carte mère", "SSD", "RAM", "Carte réseau"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel protocole est utilisé pour transférer des pages web ?",
+    "options": ["HTTP", "SMTP", "FTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type de logiciel est Linux ?",
+    "options": ["Système d'exploitation", "Navigateur", "Antivirus", "Driver"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole sécurise SSH ?",
+    "options": ["TLS", "Chiffrement asymétrique", "UDP", "SMTP"],
+    "correct": 1,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel composant gère les calculs logiques ?",
+    "options": ["CPU", "GPU", "RAM", "SSD"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel service permet de synchroniser des fichiers entre machines ?",
+    "options": ["rsync", "ping", "top", "grep"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel protocole utilise le port 443 ?",
+    "options": ["HTTPS", "FTP", "SMTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel composant relie le CPU à la RAM ?",
+    "options": ["Bus système", "SSD", "Switch", "Routeur"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel outil permet de tester la connectivité réseau ?",
+    "options": ["ping", "nano", "ls", "chmod"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole permet la gestion d'équipements réseau ?",
+    "options": ["SNMP", "FTP", "HTTP", "SMTP"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel type de stockage est le plus rapide aujourd'hui ?",
+    "options": ["NVMe SSD", "HDD", "DVD", "Clé USB"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel langage est utilisé pour automatiser sous Linux ?",
+    "options": ["Bash", "HTML", "CSS", "SQL"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel protocole permet l'attribution automatique d'IP ?",
+    "options": ["DHCP", "DNS", "HTTP", "SSH"],
+    "correct": 0,
+    "theme": "technology",
+    "difficulty": "facile"
   }
+]}
 ]}
 ]
