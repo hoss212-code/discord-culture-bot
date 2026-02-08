@@ -642,5 +642,221 @@
     "correct": 0,
     "theme": "science",
     "difficulty": "moyen"
+  },
+
+  {
+    "question": "Quel organe humain stocke la bile ?",
+    "options": ["Foie", "Pancréas", "Vésicule biliaire", "Estomac"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète est la plus petite du système solaire ?",
+    "options": ["Mars", "Mercure", "Vénus", "Pluton"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'azote ?",
+    "options": ["Az", "N", "Nt", "Na"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type d'énergie utilise une centrale nucléaire ?",
+    "options": ["Fusion nucléaire", "Fission nucléaire", "Combustion", "Solaire"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète possède la plus grande gravité parmi les planètes rocheuses ?",
+    "options": ["Mars", "Terre", "Vénus", "Mercure"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+
+  {
+    "question": "Quel organe humain est responsable de l'ouïe ?",
+    "options": ["Nez", "Oreille", "Cerveau", "Peau"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est la formule chimique du dioxyde de carbone ?",
+    "options": ["CO", "CO2", "C2O", "O2C"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle planète est surnommée la planète bleue ?",
+    "options": ["Neptune", "Terre", "Uranus", "Vénus"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'hélium ?",
+    "options": ["He", "Hl", "Hu", "H"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle partie du corps humain contient les cordes vocales ?",
+    "options": ["Poumon", "Larynx", "Pharynx", "Trachée"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+
+  {
+    "question": "Quel est le symbole chimique du nickel ?",
+    "options": ["Ni", "Nk", "Nl", "Ne"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel phénomène maintient les planètes en orbite ?",
+    "options": ["Magnétisme", "Gravité", "Pression", "Électricité"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est la température approximative du corps humain ?",
+    "options": ["35°C", "37°C", "39°C", "40°C"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle planète possède la plus longue année ?",
+    "options": ["Saturne", "Neptune", "Uranus", "Jupiter"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'étain ?",
+    "options": ["Sn", "St", "Et", "Ea"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+
+  {
+    "question": "Quelle planète possède le plus de vent dans le système solaire ?",
+    "options": ["Mars", "Neptune", "Jupiter", "Saturne"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel organe humain est responsable de l'odorat ?",
+    "options": ["Nez", "Langue", "Oreille", "Peau"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le symbole chimique du platine ?",
+    "options": ["Pt", "Pl", "Pn", "Pm"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète est la plus dense ?",
+    "options": ["Mercure", "Terre", "Mars", "Vénus"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom du satellite naturel de la Terre ?",
+    "options": ["Io", "Lune", "Europa", "Titan"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quel est le symbole chimique du silicium ?",
+    "options": ["Si", "Sl", "Sc", "Sm"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle planète est la plus froide du système solaire ?",
+    "options": ["Neptune", "Uranus", "Pluton", "Saturne"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel organe humain stocke l'urine ?",
+    "options": ["Rein", "Foie", "Vessie", "Intestin"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le symbole chimique du cobalt ?",
+    "options": ["Cb", "Co", "Ct", "Cl"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle est la principale source d'énergie de la Terre ?",
+    "options": ["Le Soleil", "La Lune", "Le vent", "Les océans"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quelle planète possède la plus grande lune (Ganymède) ?",
+    "options": ["Saturne", "Jupiter", "Uranus", "Mars"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'iode ?",
+    "options": ["Io", "Id", "I", "In"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle partie du sang permet la coagulation ?",
+    "options": ["Globules rouges", "Plaquettes", "Plasma", "Globules blancs"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète tourne en sens inverse de la plupart des planètes ?",
+    "options": ["Vénus", "Mars", "Jupiter", "Mercure"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quelle est la science qui étudie les tremblements de terre ?",
+    "options": ["Volcanologie", "Sismologie", "Géologie", "Climatologie"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
   }
 ]
