@@ -1,1 +1,214 @@
-[{"question":"Quelle est la formule chimique de l'eau?","options":["H2O","CO2","O2","H2O2"],"correct":0,"theme":"science","difficulty":"easy"},{"question":"Quelle est la planète la plus proche du Soleil?","options":["Vénus","Mercure","Mars","Terre"],"correct":1,"theme":"science","difficulty":"easy"},{"question":"Qui a découvert la pénicilline?","options":["Louis Pasteur","Marie Curie","Alexander Fleming","Albert Einstein"],"correct":2,"theme":"science","difficulty":"medium"}]
+[
+  {
+    "question": "Quelle planète est la plus proche du Soleil ?",
+    "options": ["Vénus", "Mercure", "Mars", "Terre"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel gaz est indispensable à la respiration humaine ?",
+    "options": ["Dioxygène (O2)", "Dioxyde de carbone (CO2)", "Hélium", "Ozone"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est la formule chimique de l'eau ?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Combien de planètes composent le système solaire ?",
+    "options": ["7", "8", "9", "10"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel organe pompe le sang dans le corps humain ?",
+    "options": ["Poumon", "Cerveau", "Cœur", "Foie"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle planète est appelée la planète rouge ?",
+    "options": ["Vénus", "Mars", "Jupiter", "Saturne"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'oxygène ?",
+    "options": ["Ox", "O", "Og", "Oy"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est l'état de l'eau à 100°C (au niveau de la mer) ?",
+    "options": ["Solide", "Liquide", "Gazeux", "Plasma"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Combien de pattes a une araignée ?",
+    "options": ["6", "8", "10", "12"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel instrument sert à observer des cellules ?",
+    "options": ["Télescope", "Microscope", "Baromètre", "Altimètre"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quel est le symbole chimique du sodium ?",
+    "options": ["So", "Na", "Sd", "S"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel métal est liquide à température ambiante ?",
+    "options": ["Mercure", "Fer", "Cuivre", "Aluminium"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le pH de l'eau pure à 25°C ?",
+    "options": ["3", "7", "10", "14"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle particule a une charge électrique négative ?",
+    "options": ["Proton", "Neutron", "Électron", "Noyau"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel organe est principalement responsable des échanges gazeux ?",
+    "options": ["Cœur", "Foie", "Poumons", "Estomac"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est l'os le plus long du corps humain ?",
+    "options": ["Fémur", "Tibia", "Humérus", "Radius"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le symbole chimique de l'or ?",
+    "options": ["Or", "Au", "Ag", "Go"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle est la vitesse de la lumière dans le vide (approx.) ?",
+    "options": ["300 000 km/s", "30 000 km/s", "3 000 km/s", "300 km/s"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle couche de l'atmosphère contient la majorité de la vapeur d'eau et la météo ?",
+    "options": ["Stratosphère", "Troposphère", "Mésosphère", "Thermosphère"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel type de cellule sanguine transporte l'oxygène ?",
+    "options": ["Plaquettes", "Globules rouges", "Globules blancs", "Plasma"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+
+  {
+    "question": "Quelle est l'unité SI de la force ?",
+    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quelle grandeur a pour unité le Pascal (Pa) ?",
+    "options": ["Énergie", "Pression", "Puissance", "Charge électrique"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Dans une pile, quelle énergie est principalement convertie en énergie électrique ?",
+    "options": ["Énergie thermique", "Énergie chimique", "Énergie nucléaire", "Énergie lumineuse"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nombre de neutrons dans l'isotope carbone-14 (Z=6) ?",
+    "options": ["6", "8", "14", "20"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom de la molécule qui porte l'information génétique ?",
+    "options": ["ATP", "ADN", "ARNt", "Glucose"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le symbole chimique du potassium ?",
+    "options": ["P", "Po", "K", "Pt"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle loi relie tension (U), intensité (I) et résistance (R) ?",
+    "options": ["Loi de Newton", "Loi de Boyle", "Loi d'Ohm", "Loi de Kepler"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quelle planète a la gravité la plus forte parmi celles-ci ?",
+    "options": ["Mars", "Vénus", "Jupiter", "Mercure"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le processus par lequel les plantes produisent du glucose grâce à la lumière ?",
+    "options": ["Respiration cellulaire", "Fermentation", "Photosynthèse", "Osmose"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le nom du phénomène qui décrit la séparation de la lumière blanche en couleurs par un prisme ?",
+    "options": ["Diffraction", "Dispersion", "Réfraction totale", "Interférence"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  }
+]
