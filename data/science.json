@@ -210,5 +210,221 @@
     "correct": 1,
     "theme": "science",
     "difficulty": "difficile"
+  },
+
+  {
+    "question": "Quel organe filtre le sang pour produire l'urine ?",
+    "options": ["Foie", "Rein", "Poumon", "Pancréas"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle planète est la plus grande du système solaire ?",
+    "options": ["Saturne", "Jupiter", "Neptune", "Terre"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le symbole chimique du carbone ?",
+    "options": ["Ca", "Co", "C", "Cr"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle énergie est produite par une éolienne ?",
+    "options": ["Thermique", "Électrique", "Nucléaire", "Chimique"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle partie de la plante réalise la photosynthèse ?",
+    "options": ["Racine", "Tige", "Feuille", "Fleur"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quel est le symbole chimique de l'argent ?",
+    "options": ["Ar", "Ag", "Au", "Al"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète est la plus éloignée du Soleil ?",
+    "options": ["Neptune", "Uranus", "Saturne", "Jupiter"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel gaz est majoritaire dans l'atmosphère terrestre ?",
+    "options": ["Oxygène", "CO2", "Azote", "Hydrogène"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel scientifique a formulé les lois du mouvement ?",
+    "options": ["Einstein", "Newton", "Galilée", "Curie"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est l'état de l'eau à −10°C ?",
+    "options": ["Liquide", "Gazeux", "Solide", "Plasma"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quelle est l'unité de l'énergie en SI ?",
+    "options": ["Watt", "Volt", "Joule", "Newton"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel organe produit l'insuline ?",
+    "options": ["Pancréas", "Foie", "Cœur", "Rein"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète tourne le plus rapidement autour du Soleil ?",
+    "options": ["Mercure", "Vénus", "Terre", "Mars"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le nom de la galaxie où se trouve la Terre ?",
+    "options": ["Andromède", "Voie lactée", "Orion", "Pegase"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle est la température d'ébullition de l'eau à pression normale ?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+
+  {
+    "question": "Quelle unité mesure l'intensité du courant électrique ?",
+    "options": ["Volt", "Ampère", "Watt", "Ohm"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel organe permet de voir ?",
+    "options": ["Oreille", "Œil", "Peau", "Nez"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quelle planète possède le plus de lunes connues ?",
+    "options": ["Mars", "Jupiter", "Saturne", "Uranus"],
+    "correct": 2,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le symbole chimique du fer ?",
+    "options": ["Fe", "Fr", "F", "Ir"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel phénomène provoque les marées ?",
+    "options": ["Vent", "Gravité de la Lune", "Rotation terrestre", "Soleil"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+
+  {
+    "question": "Quelle est l'unité de la puissance électrique ?",
+    "options": ["Watt", "Joule", "Volt", "Ampère"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète est connue pour ses anneaux ?",
+    "options": ["Mars", "Saturne", "Vénus", "Mercure"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel type d'animal est une grenouille ?",
+    "options": ["Reptile", "Amphibien", "Mammifère", "Poisson"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel organe humain consomme le plus d'énergie ?",
+    "options": ["Cerveau", "Cœur", "Foie", "Poumon"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quelle couche protège la Terre des UV ?",
+    "options": ["Ozone", "Troposphère", "Hydrosphère", "Manteau"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+
+  {
+    "question": "Quel est le principal gaz responsable de l'effet de serre ?",
+    "options": ["CO2", "O2", "H2", "He"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète est surnommée la géante gazeuse ?",
+    "options": ["Jupiter", "Mars", "Mercure", "Terre"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est l'organe de l'équilibre dans l'oreille ?",
+    "options": ["Cochlée", "Vestibule", "Tympan", "Pavillon"],
+    "correct": 1,
+    "theme": "science",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel type d'énergie est stocké dans une batterie ?",
+    "options": ["Chimique", "Mécanique", "Thermique", "Nucléaire"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle planète a un jour plus long que son année ?",
+    "options": ["Vénus", "Mars", "Mercure", "Neptune"],
+    "correct": 0,
+    "theme": "science",
+    "difficulty": "difficile"
   }
 ]
