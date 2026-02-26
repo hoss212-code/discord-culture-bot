@@ -145,3 +145,29 @@ Les contributions sont les bienvenues! N'hésite pas à ouvrir une issue ou une 
 ## 🚀 Auteur
 
 Créé avec ❤️ par [hoss212-code](https://github.com/hoss212-code)
+
+
+## 📋 Gestion des Questions
+
+### Remplir les fichiers de questions à 200 par thème
+
+Un script est fourni pour compléter automatiquement tous les fichiers JSON de questions jusqu'à 200 questions par thème:
+
+```bash
+python3 fill_questions.py
+```
+
+Ce script:
+- Charge les questions existantes de chaque fichier JSON
+- Les conserve intactes
+- Ajoute des questions génériques jusqu'à atteindre 200 questions par thème
+- Sauvegarde les fichiers avec le format JSON correct
+
+**Thèmes traités:**
+- culture_generale
+- football
+- geography
+- history
+- science
+- sport
+- technology
