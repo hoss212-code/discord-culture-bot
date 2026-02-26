@@ -68,7 +68,7 @@ Règles:
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4o",  # ou "gpt-3.5-turbo" pour moins cher
+            model=""gpt-5.2"4o",  # ou "gpt-3.5-turbo" pour moins cher
             messages=[
                 {"role": "system", "content": "Tu es un expert en création de quiz éducatifs. Tu génères des questions de qualité avec des réponses précises."},
                 {"role": "user", "content": prompt}
