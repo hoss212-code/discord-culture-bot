@@ -54,5 +54,789 @@
         "correct": 2,
         "theme": "culture_generale",
         "difficulty": "hard"
+    },
+    {
+        "question": "Quel est le plus long fleuve d'Europe?",
+        "options": ["Danube", "Rhin", "Volga", "Seine"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a composé les Quatre Saisons?",
+        "options": ["Bach", "Vivaldi", "Mozart", "Beethoven"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus petit pays du monde?",
+        "options": ["Monaco", "Saint-Marin", "Vatican", "Andorre"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "En quelle année a eu lieu le premier pas sur la Lune?",
+        "options": ["1965", "1967", "1969", "1971"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le pays le plus peuplé du monde?",
+        "options": ["Chine", "Inde", "États-Unis", "Indonésie"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui est l'auteur de 'La Métamorphose'?",
+        "options": ["Kafka", "Mann", "Sartre", "Camus"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle couleur obtient-on en mélangeant du rouge et du jaune?",
+        "options": ["Vert", "Orange", "Violet", "Brun"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le fleuve le plus long du monde?",
+        "options": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a inventé la dynamite?",
+        "options": ["Edison", "Nobel", "Tesla", "Bell"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus haut sommet du monde?",
+        "options": ["K2", "Everest", "Kilimandjaro", "Mont Blanc"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Dans quel pays se trouve la ville de Marrakech?",
+        "options": ["Algérie", "Tunisie", "Maroc", "Mali"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le point de fusion de l'eau?",
+        "options": ["-10°C", "0°C", "10°C", "100°C"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'Guernica'?",
+        "options": ["Dali", "Picasso", "Miró", "Goya"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale du Brésil?",
+        "options": ["Rio de Janeiro", "São Paulo", "Brasilia", "Salvador"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a écrit 'Don Quichotte'?",
+        "options": ["Cervantes", "Shakespeare", "Dante", "Lope de Vega"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le nombre de jours dans une année bissextile?",
+        "options": ["364", "365", "366", "367"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la monnaie du Royaume-Uni?",
+        "options": ["Euro", "Livre sterling", "Franc", "Dollar"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui est le personnage principal de 'Harry Potter'?",
+        "options": ["Harry", "Ron", "Hermione", "Dumbledore"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de l'Italie?",
+        "options": ["Venise", "Milan", "Rome", "Naples"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel instrument mesure la pression atmosphérique?",
+        "options": ["Thermomètre", "Baromètre", "Anémomètre", "Hygromètre"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a composé 'Le Lac des Cygnes'?",
+        "options": ["Tchaïkovski", "Stravinsky", "Prokofiev", "Rimsky-Korsakov"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le plus grand continent du monde?",
+        "options": ["Afrique", "Asie", "Amérique", "Europe"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a découvert la pénicilline?",
+        "options": ["Pasteur", "Fleming", "Koch", "Lister"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de l'Espagne?",
+        "options": ["Barcelone", "Madrid", "Séville", "Valence"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'Le Cri'?",
+        "options": ["Munch", "Van Gogh", "Gauguin", "Monet"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le symbole chimique du carbone?",
+        "options": ["Ca", "Co", "C", "Cr"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la devise du Japon?",
+        "options": ["Yuan", "Won", "Yen", "Baht"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Roméo et Juliette'?",
+        "options": ["Dickens", "Shakespeare", "Wilde", "Molière"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus long fleuve d'Afrique?",
+        "options": ["Congo", "Nil", "Niger", "Zambèze"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de la Russie?",
+        "options": ["Saint-Pétersbourg", "Moscou", "Kiev", "Minsk"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a inventé l'ampoule électrique?",
+        "options": ["Tesla", "Edison", "Franklin", "Bell"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus grand pays du monde?",
+        "options": ["Chine", "États-Unis", "Russie", "Canada"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'Les Tournesols'?",
+        "options": ["Van Gogh", "Monet", "Renoir", "Cézanne"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de l'Allemagne?",
+        "options": ["Munich", "Hambourg", "Berlin", "Francfort"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'argent?",
+        "options": ["Ar", "Ag", "Au", "Al"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a écrit 'Madame Bovary'?",
+        "options": ["Flaubert", "Balzac", "Zola", "Stendhal"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de la Turquie?",
+        "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a composé 'La Marseillaise'?",
+        "options": ["Berlioz", "Rouget de Lisle", "Saint-Saëns", "Gounod"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quel est le plus grand lac du monde?",
+        "options": ["Mer Caspienne", "Lac Supérieur", "Lac Victoria", "Lac Baïkal"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale du Portugal?",
+        "options": ["Porto", "Lisbonne", "Coimbra", "Braga"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'Le Jardin des délices'?",
+        "options": ["Bruegel", "Bosch", "Van Eyck", "Rembrandt"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique du fer?",
+        "options": ["Fe", "Fr", "F", "Ir"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de la Grèce?",
+        "options": ["Athènes", "Thessalonique", "Sparte", "Corinthe"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Les Fleurs du mal'?",
+        "options": ["Verlaine", "Rimbaud", "Baudelaire", "Mallarmé"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le plus grand île du monde (après l'Australie)?",
+        "options": ["Groenland", "Bornéo", "Madagascar", "Nouvelle-Guinée"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de la Norvège?",
+        "options": ["Stockholm", "Helsinki", "Oslo", "Copenhague"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'La Ronde de nuit'?",
+        "options": ["Rembrandt", "Vermeer", "Van Gogh", "Hals"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique du plomb?",
+        "options": ["Pb", "Pl", "Pm", "Po"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de la Suède?",
+        "options": ["Oslo", "Helsinki", "Stockholm", "Copenhague"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Germinal'?",
+        "options": ["Zola", "Balzac", "Hugo", "Flaubert"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le plus haut sommet d'Europe?",
+        "options": ["Mont Blanc", "Mont Elbrouz", "Matterhorn", "Pirin"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quelle est la capitale des Pays-Bas?",
+        "options": ["Amsterdam", "La Haye", "Rotterdam", "Utrecht"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'Le Déjeuner sur l'herbe'?",
+        "options": ["Monet", "Manet", "Renoir", "Degas"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique du cuivre?",
+        "options": ["Cu", "Co", "C", "Cp"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de la Belgique?",
+        "options": ["Bruges", "Gand", "Bruxelles", "Anvers"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Candide'?",
+        "options": ["Rousseau", "Voltaire", "Diderot", "Montesquieu"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le plus long fleuve d'Amérique du Nord?",
+        "options": ["Mississippi", "Colorado", "Rio Grande", "Mackenzie"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de l'Autriche?",
+        "options": ["Zurich", "Vienne", "Budapest", "Prague"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a inventé l'imprimerie?",
+        "options": ["Gutenberg", "Leonardo", "Copernic", "Galilée"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le symbole chimique du sodium?",
+        "options": ["So", "Na", "Sd", "S"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de la Suisse?",
+        "options": ["Genève", "Zurich", "Berne", "Lausanne"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a peint 'Les Nymphéas'?",
+        "options": ["Monet", "Renoir", "Pissarro", "Sisley"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le plus haut volcan du monde?",
+        "options": ["Everest", "Ojos del Salado", "Kilimandjaro", "Fuji"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quelle est la capitale du Mexique?",
+        "options": ["Guadalajara", "Mexico", "Monterrey", "Cancún"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Le Rouge et le Noir'?",
+        "options": ["Balzac", "Stendhal", "Flaubert", "Zola"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'hélium?",
+        "options": ["He", "Hl", "Hu", "H"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de la Pologne?",
+        "options": ["Cracovie", "Varsovie", "Gdansk", "Poznan"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'La Création d'Adam'?",
+        "options": ["Raphaël", "Léonard", "Michel-Ange", "Donatello"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus grand désert chaud du monde?",
+        "options": ["Gobi", "Sahara", "Kalahari", "Thar"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de la Corée du Sud?",
+        "options": ["Busan", "Incheon", "Séoul", "Jeju"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a composé 'La Flûte enchantée'?",
+        "options": ["Mozart", "Beethoven", "Bach", "Haydn"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique du chlore?",
+        "options": ["Cl", "Ch", "Cr", "Co"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de la Thaïlande?",
+        "options": ["Chiang Mai", "Bangkok", "Phuket", "Pattaya"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Le Comte de Monte-Cristo'?",
+        "options": ["Hugo", "Dumas", "Zola", "Balzac"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus long pont du monde?",
+        "options": ["Pont d'Åkashi", "Danyang-Kunshan", "Grand Belt", "Øresund"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quelle est la capitale de la Colombie?",
+        "options": ["Medellín", "Cali", "Bogota", "Cartagena"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a peint 'La Jeune Fille à la perle'?",
+        "options": ["Rembrandt", "Vermeer", "Rubens", "Van Dyck"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique du potassium?",
+        "options": ["P", "Po", "K", "Pt"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de l'Irlande?",
+        "options": ["Belfast", "Dublin", "Cork", "Galway"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'L'Avare'?",
+        "options": ["Racine", "Corneille", "Molière", "Marivaux"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus grand lac d'Afrique?",
+        "options": ["Tanganyika", "Victoria", "Malawi", "Nasser"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de la Finlande?",
+        "options": ["Stockholm", "Oslo", "Helsinki", "Copenhague"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a composé 'Carmen'?",
+        "options": ["Bizet", "Gounod", "Massenet", "Offenbach"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique du zinc?",
+        "options": ["Zn", "Zi", "Z", "Zc"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale du Danemark?",
+        "options": ["Oslo", "Helsinki", "Copenhague", "Stockholm"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Vingt mille lieues sous les mers'?",
+        "options": ["Verne", "Dumas", "Hugo", "Sand"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus long tunnel routier du monde?",
+        "options": ["Gotthard", "Seikan", "Laerdal", "Simplon"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quelle est la capitale de la République tchèque?",
+        "options": ["Bratislava", "Budapest", "Prague", "Varsovie"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'L'Homme au turban rouge'?",
+        "options": ["Van Eyck", "Holbein", "Van der Weyden", "Fouquet"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quel est le symbole chimique du nickel?",
+        "options": ["Ni", "Nk", "Nl", "Ne"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de la Roumanie?",
+        "options": ["Sofia", "Bucarest", "Budapest", "Belgrade"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Les Trois Mousquetaires'?",
+        "options": ["Hugo", "Dumas", "Zola", "Balzac"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus grand aéroport du monde par superficie?",
+        "options": ["Dubai", "Londres Heathrow", "King Fahd", "Tokyo Narita"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quelle est la capitale de l'Inde?",
+        "options": ["Mumbai", "New Delhi", "Calcutta", "Chennai"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a composé 'Les Quatre Saisons'?",
+        "options": ["Vivaldi", "Bach", "Handel", "Corelli"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le symbole chimique du magnésium?",
+        "options": ["Mg", "Mn", "Ma", "Me"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale de l'Indonésie?",
+        "options": ["Jakarta", "Surabaya", "Bandung", "Medan"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'La Persistance de la mémoire'?",
+        "options": ["Picasso", "Dali", "Miró", "Magritte"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus grand stade du monde?",
+        "options": ["Camp Nou", "Maracanã", "Wembley", "Rose Bowl"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quelle est la capitale du Vietnam?",
+        "options": ["Ho Chi Minh", "Hanoï", "Da Nang", "Hué"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Phèdre'?",
+        "options": ["Molière", "Racine", "Corneille", "Beaumarchais"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'iode?",
+        "options": ["Io", "Id", "I", "In"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de la Malaisie?",
+        "options": ["Kuala Lumpur", "Putrajaya", "Penang", "Johor Bahru"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui a composé 'Le Boléro'?",
+        "options": ["Debussy", "Ravel", "Saint-Saëns", "Fauré"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le symbole chimique du calcium?",
+        "options": ["Cl", "Ca", "C", "Cm"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale des Philippines?",
+        "options": ["Manille", "Quezon City", "Cebu", "Davao"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a peint 'Le Baiser'?",
+        "options": ["Rodin", "Klimt", "Moreau", "Schiele"],
+        "correct": 1,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le symbole chimique du soufre?",
+        "options": ["So", "Su", "S", "Sf"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quelle est la capitale du Kenya?",
+        "options": ["Nairobi", "Mombasa", "Kisumu", "Nakuru"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a écrit 'Le Cid'?",
+        "options": ["Racine", "Molière", "Corneille", "Marivaux"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le symbole chimique du mercure?",
+        "options": ["Mc", "Me", "Hg", "M"],
+        "correct": 2,
+        "theme": "culture_generale",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle est la capitale de l'Éthiopie?",
+        "options": ["Addis-Abeba", "Mogadiscio", "Khartoum", "Djibouti"],
+        "correct": 0,
+        "theme": "culture_generale",
+        "difficulty": "medium"
     }
 ]
