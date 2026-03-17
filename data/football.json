@@ -1,9 +1,217 @@
 [
-  {"question":"Quel joueur a gagné le plus de Ballons d'Or?","options":["Cristiano Ronaldo","Lionel Messi","Pelé","Maradona"],"correct":1,"theme":"football","difficulty":"facile"},
-  {"question":"Quel club a gagné le plus de Ligues des Champions?","options":["Real Madrid","Barcelona","Bayern Munich","Milan AC"],"correct":0,"theme":"football","difficulty":"moyen"},
-  {"question":"Qui a gagné la Coupe du Monde 2022?","options":["France","Brésil","Argentine","Allemagne"],"correct":2,"theme":"football","difficulty":"facile"},
-  {"question":"Combien de joueurs composent une équipe de football?","options":["9","10","11","12"],"correct":2,"theme":"football","difficulty":"facile"},
-  {"question":"Quel pays a remporté le plus de Coupes du Monde?","options":["Brésil","Allemagne","Argentine","Italie"],"correct":0,"theme":"football","difficulty":"moyen"},
-  {"question":"En quelle année la France a-t-elle gagné sa première Coupe du Monde?","options":["1998","2000","1996","2002"],"correct":0,"theme":"football","difficulty":"moyen"},
-  {"question":"Quel gardien français a remporté le Ballon d'Or en 1963?","options":["Fabien Barthez","Lev Yachine","Dino Zoff","Lev Yashin"],"correct":3,"theme":"football","difficulty":"difficile"}
-]
+    {
+        "question": "Quel joueur a gagné le plus de Ballons d'Or ?",
+        "options": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Marco van Basten"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel club a gagné le plus de Ligues des Champions ?",
+        "options": ["Real Madrid", "AC Milan", "Liverpool", "Bayern Munich"],
+        "correct": 0,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a gagné la Coupe du Monde 2022 ?",
+        "options": ["France", "Brésil", "Argentine", "Croatie"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Combien de joueurs composent une équipe de football ?",
+        "options": ["9", "10", "11", "12"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel pays a remporté le plus de Coupes du Monde ?",
+        "options": ["Brésil", "Allemagne", "Italie", "Argentine"],
+        "correct": 0,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "En quelle année la France a-t-elle gagné sa première Coupe du Monde ?",
+        "options": ["1994", "1998", "2002", "2006"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel gardien français a remporté le Ballon d'Or en 1963 ?",
+        "options": ["Fabien Barthez", "Lev Yachine", "Michel Platini", "Raymond Kopa"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },    {
+        "question": "Quel pays a remporté l'Euro 2016 ?",
+        "options": ["Portugal", "France", "Allemagne", "Espagne"],
+        "correct": 0,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le club le plus titré de Ligue 1 ?",
+        "options": ["Marseille", "Paris SG", "Saint-Étienne", "Monaco"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui est le meilleur buteur de l'histoire de la Coupe du Monde ?",
+        "options": ["Pelé", "Ronaldo", "Miroslav Klose", "Gerd Müller"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "En quelle année a été créé le FC Barcelone ?",
+        "options": ["1899", "1902", "1909", "1914"],
+        "correct": 0,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel joueur a marqué le plus de buts dans un seul match de Ligue des Champions ?",
+        "options": ["Lionel Messi (5)", "Cristiano Ronaldo (5)", "Robert Lewandowski (5)", "Luiz Adriano (5)"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quelle équipe a remporté le premier mondial en 1930 ?",
+        "options": ["Brésil", "Uruguay", "Argentine", "Italie"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le surnom de l'équipe nationale du Portugal ?",
+        "options": ["Les Seleccion", "Les Lusitaniens", "Seleção das Quinas", "Os Verdes"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Qui a remporté la Coupe du Monde 2010 ?",
+        "options": ["Pays-Bas", "Espagne", "Allemagne", "Uruguay"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel joueur a inscrit 6 buts dans un match de Coupe du Monde ?",
+        "options": ["Just Fontaine", "Oleg Salenko", "Sándor Kocsis", "Gerd Müller"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "hard"
+    },
+    {
+        "question": "En quelle année l'Argentine a-t-elle remporté sa première Coupe du Monde ?",
+        "options": ["1930", "1978", "1986", "1990"],
+        "correct": 0,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel club a remporté la Ligue des Champions 2023 ?",
+        "options": ["Manchester City", "Inter Milan", "Real Madrid", "Liverpool"],
+        "correct": 0,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a gagné le Ballon d'Or 2023 ?",
+        "options": ["Erling Haaland", "Kylian Mbappé", "Lionel Messi", "Kevin De Bruyne"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le plus grand stade de football au monde par capacité ?",
+        "options": ["Camp Nou", "Wembley", "Rungrado May Day", "Maracanã"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel joueur détient le record de buts en une saison de Premier League ?",
+        "options": ["Alan Shearer", "Mohamed Salah", "Erling Haaland", "Harry Kane"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "En quelle année Zinedine Zidane a-t-il marqué le coup de tête en finale de Coupe du Monde ?",
+        "options": ["2002", "2004", "2006", "2008"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel pays a organisé la Coupe du Monde 2014 ?",
+        "options": ["Afrique du Sud", "Brésil", "Russie", "Allemagne"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Qui a remporté la Ligue des Champions 2005 avec le comeback d'Istanbul ?",
+        "options": ["AC Milan", "Liverpool", "Juventus", "Chelsea"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Quel est le record de victoires consécutives en Ligue 1 pour un club ?",
+        "options": ["10", "12", "15", "18"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quel joueur a remporté le plus de Ballons d'Or avec 8 trophées ?",
+        "options": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est le nombre de titres de champions d'Angleterre de Manchester United ?",
+        "options": ["15", "18", "20", "22"],
+        "correct": 2,
+        "theme": "football",
+        "difficulty": "medium"
+    },
+    {
+        "question": "Qui est l'entraîneur avec le plus de Ligues des Champions remportées ?",
+        "options": ["Alex Ferguson", "Carlo Ancelotti", "Bob Paisley", "Pep Guardiola"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Quel pays a gagné l'Euro 2020 ?",
+        "options": ["Angleterre", "Italie", "Espagne", "France"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel joueur a marqué le but de la main de Dieu ?",
+        "options": ["Pelé", "Diego Maradona", "Lionel Messi", "Gabriel Batistuta"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "facile"
+    },
+    {
+        "question": "En quelle année Pelé a-t-il marqué son 1000e but ?",
+        "options": ["1965", "1969", "1973", "1977"],
+        "correct": 1,
+        "theme": "football",
+        "difficulty": "medium"
+    },
